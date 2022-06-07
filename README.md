@@ -1,2 +1,2 @@
 # testdocker
-Test Docker Container
+Minicraft container Docker Test
